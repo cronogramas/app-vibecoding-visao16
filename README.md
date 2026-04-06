@@ -53,3 +53,5 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 - Menu lateral: Painel, Cenários, Fórum, Investimentos, Configurações.  
 
 ---
+
+© 2026 Visão 16. Todos os direitos reservados.
