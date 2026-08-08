@@ -25,7 +25,7 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 ---
 
 **Resultado Final no Lovable:**  
-[https://projeto-visao16.lovable.app]  
+(https://projeto-visao16.lovable.app)  
 
 <img width="1895" height="885" alt="image" src="https://github.com/user-attachments/assets/e5b0c158-7de5-4eda-90bf-3e9e5c2a5e85" />
   
