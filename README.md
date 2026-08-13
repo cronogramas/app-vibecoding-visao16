@@ -1,8 +1,8 @@
 # Visão 16 – ERP Simplificado com IA Preditiva
 
 ## Contexto
-O **Visão 16** é uma plataforma de finanças e ERP simplificado com foco em **previsão de cenários financeiros, investimentos e agente consultivo**.  
-Objetivo: oferecer uma solução acessível e inteligente para pessoas físicas e empresas, integrando **IA preditiva, dashboards dinâmicos e automação contínua**.
+O **Visão 16** é uma plataforma de finanças e ERP simplificado com foco em **previsão de cenários financeiros, investimentos e agente consultivo com IA**.  
+Objetivo: oferecer uma solução acessível e inteligente para pessoas físicas e empresas, integrando **IA preditiva, dashboards dinâmicos, automação financeira e análises em tempo real**.
 
 ## Problema
 Muitos usuários e empresas enfrentam dificuldades em planejar cenários financeiros de forma prática e confiável.  
@@ -11,24 +11,36 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 
 ## Público-Alvo
 - Pessoas físicas que querem organizar suas finanças com praticidade.  
-- Pequenas e médias empresas que precisam de gestão simplificada de RH/Admin.  
-- Investidores que buscam previsões de mercado e simulações de carteira.  
-- Grandes empresas/startups que necessitam de relatórios consultivos e integrações avançadas.
-  
+- Pequenas e médias empresas que precisam de gestão simplificada e previsões de fluxo de caixa.  
+- Investidores que buscam previsões de mercado, simulações de carteira e painel cripto em tempo real.  
+- Estudantes e profissionais que desejam aprender sobre IA aplicada a finanças em ambiente educacional seguro.  
 
 ## Entregável da IA
-- Protótipo com telas principais (Dashboard, Cenários, Fórum, Investimentos).  
+- Protótipo com telas principais (Dashboard, Cenários, Fórum, Investimentos, Poupanças).  
 - Recursos mínimos necessários (IA preditiva, relatórios, segurança).  
 - Validação inicial com testes de responsividade e segurança.  
 - Linguagem clara e acessível em português.  
 
 ---
 
-**Resultado Final**  
+**Atualizações**  
+
 [Visite o Projeto](https://projeto-visao16.lovable.app) 
 
 <img width="1895" height="885" alt="image" src="https://github.com/user-attachments/assets/e5b0c158-7de5-4eda-90bf-3e9e5c2a5e85" />
-  
+
+- Atualização de Agosto de 2026
+- Página nova estilizada
+<img width="1898" height="893" alt="image" src="https://github.com/user-attachments/assets/26488ad9-a54e-436e-856f-d4af80ffd86c" />
+
+
+### O que foi feito até aqui
+- **Dashboards**: Cenários, Poupanças, Investimentos e Educação, com drag‑and‑drop e feedback háptico.  
+- **Painel Cripto**: integração com Binance, OKX, Coinbase, conversão automática de moedas e gráficos TradingView.  
+- **Agente Autônomo**: simulações sandbox com arbitragem, leitura de notícias e dimensionamento via Kelly Criterion.  
+- **Educação**: fórum estilo rede social com XP, badges, estudos de caso e insights sociais.  
+- **Administração**: remoção do dashboard de RH/Admin, substituído por guia oculta de login para administradores e moderadores.  
+- **Compliance e Ética**: avisos claros, moderação de conteúdo e logs imutáveis para auditoria.  
 
 ---
 
@@ -37,12 +49,14 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 ### Principais
 - Cenários financeiros com IA preditiva.  
 - Dashboard modular com gráficos dinâmicos.  
-- Automação RH/Admin integrada.  
-- Fórum interativo de educação financeira.    
+- Fórum interativo de educação financeira.  
+- Painel cripto em tempo real com TradingView.  
+- Agente IA para simulações e estudos de caso.  
 
 ### Extras
-- Previsões de mercado.    
+- Previsões de mercado com integração de notícias (RSS MarketCapCoin + posts sociais).  
 - Suporte premium e API aberta no plano Executivo.  
+- Integração distribuída via Delphi (Gensyn).  
 
 ### Painel (Protótipo)
 - Resumo mensal: saldo, receitas, despesas e metas ativas.  
@@ -50,7 +64,7 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 - Distribuição por categoria (gráfico em donut).  
 - Últimas transações detalhadas com valores e categorias.  
 - Progresso das metas com percentuais.  
-- Menu lateral: Painel, Cenários, Fórum, Investimentos, Configurações.  
+- Menu lateral: Painel, Cenários, Fórum, Investimentos, Poupanças, Configurações.  
 
 ---
 
