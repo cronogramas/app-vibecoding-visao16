@@ -54,9 +54,9 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 - Agente IA para simulações e estudos de caso.  
 
 ### Extras
-- Previsões de mercado com integração de notícias (RSS MarketCapCoin + posts sociais).  
+- Previsões de mercado com integração de notícias.  
 - Suporte premium e API aberta no plano Executivo.  
-- Integração distribuída via Delphi (Gensyn).  
+- Integração distribuída via Delphi. 
 
 ### Painel (Protótipo)
 - Resumo mensal: saldo, receitas, despesas e metas ativas.  
