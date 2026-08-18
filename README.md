@@ -1,4 +1,4 @@
-# Visão 16 – ERP Simplificado com IA Preditiva
+# Projeto Visão 16
 
 ## Contexto
 O **Visão 16** é uma plataforma de finanças e ERP simplificado com foco em **previsão de cenários financeiros, investimentos e agente consultivo com IA**.  
