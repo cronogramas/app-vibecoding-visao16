@@ -1,7 +1,7 @@
 # Projeto Visão 16
 
 ## Contexto
-O **Visão 16** é uma plataforma de finanças e ERP simplificado com foco em **previsão de cenários financeiros, investimentos e agente consultivo com IA**.  
+O **Visão 16** é uma plataforma de finanças e ERP simplificado com foco em **projeções de cenários financeiros, investimentos e agente consultivo com IA**.  
 Objetivo: oferecer uma solução acessível e inteligente para pessoas físicas e empresas, integrando **IA preditiva, dashboards dinâmicos, automação financeira e análises em tempo real**.
 
 ## Problema
