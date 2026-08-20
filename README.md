@@ -55,8 +55,7 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 
 ### Extras
 - Previsões de mercado com integração de notícias.  
-- Suporte premium e API aberta no plano Executivo.  
-- Integração distribuída via Delphi (Gensyn)
+- Suporte premium e API aberta no plano Executivo.
 
 ### Painel (Protótipo)
 - Resumo mensal: saldo, receitas, despesas e metas ativas.  
