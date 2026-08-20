@@ -1,7 +1,7 @@
 # Projeto Visão 16
 
 ## Contexto
-O **Visão 16** é uma plataforma de finanças e ERP simplificado com foco em **projeções de cenários financeiros, investimentos e agente consultivo com IA**.  
+O **Visão 16** é uma plataforma de finanças e ERP simplificado com foco em **projeções de cenários financeiros, investimentos e agentes de IA com automação inteligente**.  
 Objetivo: oferecer uma solução acessível e inteligente para pessoas físicas e empresas, integrando **IA preditiva, dashboards dinâmicos, automação financeira e análises em tempo real**.
 
 ## Problema
@@ -37,7 +37,7 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 ### O que foi feito até aqui
 - **Dashboards**: Cenários, Poupanças, Investimentos e Educação, com drag‑and‑drop e feedback háptico.  
 - **Painel Cripto**: integração com Binance, OKX, Coinbase, conversão automática de moedas e gráficos TradingView.  
-- **Agente Autônomo**: simulações sandbox com arbitragem, leitura de notícias e dimensionamento via Kelly Criterion.  
+- **Agente Autônomo**: simulações sandbox com arbitragem, leitura de notícias e dimensionamento via Kelly Criterion e criação do Agente Baup (Experimental)
 - **Educação**: fórum estilo rede social com XP, badges, estudos de caso e insights sociais.  
 - **Administração**: remoção do dashboard de RH/Admin, substituído por guia oculta de login para administradores e moderadores.  
 - **Compliance e Ética**: avisos claros, moderação de conteúdo e logs imutáveis para auditoria.  
